@@ -136,8 +136,8 @@ function processMessage($message) {
 
 🔹هر نفر = یک ربات ✖️
 🔸ربات دوم = 1000ت ✔️
-🤖 @veryg0odebot
-@POKER_SOFT',"parse_mode"=>"MARKDOWN","disable_web_page_preview"=>"true"));
+🔸 @POKER_SOFT
+🤖 @veryg0odebot',"parse_mode"=>"MARKDOWN","disable_web_page_preview"=>"true"));
 
 $txxt = file_get_contents('pmembers.txt');
 $pmembersid= explode("\n",$txxt);
@@ -275,8 +275,8 @@ $output = curl_exec($ch);
 🔸ربات دوم = 1000ت ✔️
 
 🤖 در صورت تمایل به ساخت ربات های بیشتر به ایدی زیر پیام دهید.
-🚀 @veryg0odebot
-@POKER_SOFT"));
+🔸 @POKER_SOFT
+🚀 @veryg0odebot"));
       }
     }
       
